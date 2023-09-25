@@ -12,6 +12,48 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+1. Redistribution Policy
+
+Retro OS allows users to utilize, modify, and distribute the software, provided that any copies made adhere strictly to the terms and conditions outlined in this license. It is expressly prohibited to create and distribute copies of Retro OS that promote or engage in activities outside the scope of this license. Any such actions constitute a breach of this agreement.
+
+2. Attribution Requirement
+
+When Retro OS is employed as the foundation for a project, users are obligated to provide unequivocal and conspicuous attribution to the original Retro OS project. This attribution must include a clear statement acknowledging Retro OS as the source and include a direct link to the official Retro OS repository. This ensures full transparency about the origins of your project.
+
+3. Takedown Authority
+
+The original Retro OS project owner retains exclusive authority to request the removal of any project derived from Retro OS if it is found to be in violation of this license. This includes instances where the project promotes activities outside the bounds of this license or engages in misuse. Such takedown requests will be thoroughly evaluated to maintain the integrity of the Retro OS ecosystem.
+
+4. Derivative Works
+
+Projects built upon Retro OS must adhere to the principles of open source. This mandates that any derivative works, modifications, or extensions based on Retro OS must be made accessible to the community under an open-source license. This requirement ensures the continued collaborative spirit of open source, benefiting all users.
+
+5. No Warranty
+
+Retro OS is distributed as-is, without any warranties or guarantees. By using Retro OS, users acknowledge the inherent risks associated with its utilization. The original project owner and contributors cannot be held responsible for any potential issues or consequences arising from its usage.
+
+6. Contribution Guidelines
+
+Contributors to the Retro OS project are encouraged to conform to the established contribution guidelines and coding standards. This promotes uniformity, code quality, and overall enhancement of Retro OS. Collaboration is crucial to maintain and augment the OS's capabilities.
+
+7. Community Collaboration
+
+Retro OS thrives on community collaboration. Users are encouraged to actively engage in discussions, provide constructive feedback, and contribute to the continual development and enhancement of the OS. Together, we can shape the future of Retro OS.
+
+8. Non-Discrimination
+
+Retro OS promotes inclusivity and strictly prohibits discrimination based on race, gender, religion, sexual orientation, or any other personal characteristic. Users and contributors are expected to treat all others with respect and fairness within the Retro OS community.
+
+9. Respect for Privacy
+
+Users of Retro OS are expected to respect individual privacy rights. Retro OS should not be used for any activities that infringe upon the privacy or security of individuals, and users should fully comply with all applicable privacy laws and regulations.
+
+10. Compliance with Applicable Laws
+
+All users of Retro OS must diligently comply with all relevant local, national, and international laws and regulations while utilizing the software. Retro OS should not be employed for any unlawful or prohibited activities.
+
+By using Retro OS, you agree to adhere to these detailed terms, promoting ethical and responsible use of the software while fostering a strong and collaborative open-source community.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
